@@ -1,6 +1,5 @@
 # vasconcelos-thiago.github.io
-
-Portfólio 
+Portfólio
 Sou Thiago Vasconcelos, tenho uma breve experiencia no mercado de tecnologia. Entre 2014 e 2019, prestei serviços à uma empresa como técnico de suporte em telecomunicação. Realizava instalação, manutenção preventiva e corretiva, oferecendo suporte técnico de sistemas, equipamentos, redes locais e servidores.
 
 Na Faculdade Pitágoras, cursei ciências da computação de 2017 à 2020 (até o sexto período). E atualmente, na mesma instituição, faço o curso de Análise e Desenvolvimento de Sistemas. Estou a procura de uma nova oportunidade no mercado de tecnologia para contribuir no desenvolvimento de software e sistemas em uma empresa na área de TI. Sou proativo e busco aprender e desenvolver soluções inovadoras que impactam diretamente em resultados. Tenho como objetivos ampliar minhas habilidades, conhecimentos e competências em tecnologia da informação.
