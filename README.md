@@ -6,7 +6,7 @@ Na Faculdade Pitágoras, cursei ciências da computação de 2017 à 2020 (até 
 
 
 <a href="https://github.com/thiagovasconcelosx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagovasconcelosx&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagovasconcelosx&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
   
 
 
