@@ -5,8 +5,8 @@ Sou Thiago Vasconcelos, tenho uma breve experiencia no mercado de tecnologia. En
 Na Faculdade Pitágoras, cursei ciências da computação de 2017 à 2020 (até o sexto período). E atualmente, na mesma instituição, faço o curso de Análise e Desenvolvimento de Sistemas. Estou a procura de uma nova oportunidade no mercado de tecnologia para contribuir no desenvolvimento de software e sistemas em uma empresa na área de TI. Sou proativo e busco aprender e desenvolver soluções inovadoras que impactam diretamente em resultados. Tenho como objetivos ampliar minhas habilidades, conhecimentos e competências em tecnologia da informação.
 
 
-<a href="https://github.com/thiagovasconcelosx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagovasconcelosx&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/vasconcelos-thiago">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasconcelos-thiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
   
 
 
