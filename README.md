@@ -44,7 +44,7 @@ Na Faculdade Pitágoras, cursei ciências da computação de 2017 à 2020 (até 
   <div>
 <a href="http://twitter.com/ThiagoFx00/#" target="_blank"> <img src="https://img.shields.io/twitter/follow/ThiagoFx00?style=social"></a>
 <br><a href="http://instagram.com/otherthiago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-<a href="mailto:vasconcelosthx@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href= "mailto:vasconcelosthx@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="http://www.linkedin.com/in/thiago-vasconcelos-a4634a217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>     
 <a href="http://www.twitch.tv/#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="http://discord.gg/#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a> 
