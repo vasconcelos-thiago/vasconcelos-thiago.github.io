@@ -1,8 +1,6 @@
-# vasconcelos-thiago.github.io
-
-Sou Thiago Vasconcelos, tenho uma breve experiencia no mercado de tecnologia. Entre 2014 e 2019, prestei serviços à uma empresa como técnico de suporte em telecomunicação. Realizava instalação, manutenção preventiva e corretiva, oferecendo suporte técnico de sistemas, equipamentos, redes locais e servidores.
-
-Na Faculdade Pitágoras, cursei ciências da computação de 2017 à 2020 (até o sexto período). E atualmente, na mesma instituição, faço o curso de Análise e Desenvolvimento de Sistemas. Estou a procura de uma nova oportunidade no mercado de tecnologia para contribuir no desenvolvimento de software e sistemas em uma empresa na área de TI. Sou proativo e busco aprender e desenvolver soluções inovadoras que impactam diretamente em resultados. Tenho como objetivos ampliar minhas habilidades, conhecimentos e competências em tecnologia da informação.
+Olá, me chamo Thiago Vasconcelos, cursei Ciência da Computação até o sexto período e atualmente estou no terceiro período de analise e desenvolvimento de sistemas na faculdade anhanguera de São Luís. tenho conhecimentos em linguagens de programação, orientação a objetos, desenvolvimento web(Html, Css e Javascrit), bandos de dados(MySQL,PostGreSQL, MongoDB) e gerenciamento de dados e redes.
+Tenho algumas experiências no mercado de trabalho, em uma delas prestei serviços a uma empresa de telecomunicações, onde atuei como técnico em manutenção e foi nessa experiencia que eu aprimorei algumas competências importantes para o meu desenvolvimento profissional, tais como a comunicação efetiva, proatividade, trabalho em equipe, foco em resultados comprometimento e autonomia.
+Estou a procura de uma oportunidade, quero fazer parte do projeto ou empresa e contribuir para o seu desenvolvimento como um todo, tenho como objetivo crescer profissionalmente e me comprometer na resolução de problemas e obtenção de resultados inovadores para a empresa. 
 
 
 <a href="https://github.com/vasconcelos-thiago"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasconcelos-thiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
